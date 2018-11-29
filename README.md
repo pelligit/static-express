@@ -7,7 +7,7 @@
 ```bash
 $ git clone https://github.com/pelligit/static-express.git
 
-$ cd static-express & npm install
+$ cd static-express && npm install
 
 # 开启本地服务器
 $ npm start
